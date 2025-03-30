@@ -37,7 +37,9 @@
 
 <div align="right">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-morais-1bb762145/)
+
+[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://moraissolucoes.com.br/renanmorais/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-morais-1bb762145/)
 
 </div>
 
