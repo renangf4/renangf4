@@ -40,8 +40,8 @@ Com um histórico de **mais de 150 projetos entregues**, tenho total autonomia e
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renangf4&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renangf4&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=renangf4&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&order=1" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=renangf4&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph" />
 </div>
 
 ---
