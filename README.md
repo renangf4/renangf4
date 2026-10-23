@@ -50,16 +50,6 @@ Há mais de **6 anos** construo aplicações web e integrações que não podem 
 
 ---
 
-## 🛠️ Open source
-
-| Projeto | O que faz |
-|---|---|
-| [**WordPress Theme Inspector**](https://chromewebstore.google.com/detail/lncfbdbfdkkndcbdmoembpcpadneikon) | Extensão para Chrome que mostra a pasta do tema ativo e o template usado em cada página. |
-| [**toLocaleString Generator**](https://renangf4.github.io/toLocaleString-Generator/) | Ferramenta interativa para testar e gerar configurações do `toLocaleString()` do JavaScript. |
-| [**Personal Hub**](https://github.com/renangf4/personal-hub) | Hub local de utilitários em FastAPI: mídia, PDF, IA, DNS e Whois, AES-GCM, cofre e autenticador TOTP. |
-
----
-
 ## 🎓 Formação
 
 - Pós-graduação em **Full Stack Development** · FIAP
@@ -84,7 +74,7 @@ Vagas, projetos ou parcerias: me chame por e-mail ou LinkedIn.
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0D72FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moraistech.dev.br/renanmorais/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-morais-1bb762145/)
-[![E-mail](https://img.shields.io/badge/E--mail-renanmorais%40live.com-333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:renanmorais@live.com)
+[![E-mail](https://img.shields.io/badge/E--mail-contato%40moraistech.dev.br-333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contato@moraistech.dev.br)
 [![Morais Tech](https://img.shields.io/badge/Morais%20Tech-0B0E14?style=for-the-badge&logoColor=white)](https://moraistech.dev.br/)
 
 </div>
