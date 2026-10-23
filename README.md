@@ -1,56 +1,90 @@
-# 👋 Olá, eu sou o Renan Morais
+# Olá, eu sou o Renan Morais 👋
 
-### Engenheiro de Software Full Stack & Infraestrutura
+### Engenheiro de software full stack
 
-Concentro minha atuação no desenvolvimento e infraestrutura de plataformas para o mercado financeiro e de **Relações com Investidores (RI)**, atendendo empresas listadas na **B3, NYSE e Nasdaq**. Na prática, crio desde réguas de investimento e gráficos interativos até a gestão de documentos regulatórios, onde a precisão do cálculo, a estabilidade e a segurança dos dados são críticas.
+Há mais de **6 anos** construo aplicações web e integrações que não podem falhar, de portais de **Relações com Investidores** para empresas listadas na **B3, NYSE e Nasdaq** a landing pages, SaaS e sistemas sob medida. São **mais de 168 projetos publicados** e pós-graduação em **Full Stack Development pela FIAP**.
 
----
-
-## 👨‍💻 Quem sou eu
-
-Engenheiro de Software Full Stack com especialização pela **FIAP** e mais de **6 anos de experiência** projetando arquiteturas escaláveis e sistemas de alta criticidade. Minha trajetória é marcada pela entrega de soluções robustas para o mercado financeiro, unindo a solidez do backend à agilidade de interfaces modernas.
-
-Com um histórico de **mais de 150 projetos entregues**, tenho total autonomia em todo o ciclo de vida da aplicação: do código ao deploy em produção.
+📍 São Bernardo do Campo, SP · 🌐 [Portfólio](https://moraistech.dev.br/renanmorais/portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/renan-morais-1bb762145/)
 
 ---
 
-## 🛠️ O que faço na prática
+## 💼 Experiência
 
-- 🚀 **Desenvolvimento Full Stack:** Construção de interfaces com **Next.js** e **React**, além de APIs e sistemas performáticos em **Node.js** e **PHP**, com modelagem de banco de dados em **MySQL**.
-- ⚙️ **Infraestrutura e Deploy:** Autonomia completa para colocar projetos em produção — configuração de **VPS Linux**, conteinerização com **Docker Compose**, **Nginx** como proxy reverso, esteiras de **CI/CD** e camada de segurança/DNS via **Cloudflare**.
-- 🔌 **Integrações & Tempo Real:** Experiência prática na integração de Webhooks de pagamento, geolocalização e comunicação em tempo real via **WebSockets** e **MQTT**.
+**MZ Group** · Frontend Engineer, especialista em sistemas de RI · *jun/2021 – atual*
+- Portais de Relações com Investidores para empresas como Itaú, Banco do Brasil Asset, Nubank Asset, XP Asset e Braskem.
+- Motores de cálculo que transformam dados de APIs financeiras em cotações, indicadores e gráficos interativos em tempo real.
+- Sustentação de uma base de mais de 100 portais, estáveis mesmo nos picos de acesso da divulgação de resultados.
+
+**Morais Tech** · Fundador e desenvolvedor · *2020 – atual*
+- Landing pages, SaaS, integrações de pagamento e trackeamento (pixel, API de Conversões e webhooks) para infoprodutores, SaaS e anunciantes.
+- Ciclo completo com o cliente: briefing, desenvolvimento, deploy, hospedagem e suporte.
+
+**MultiCrédito** · Full Stack Engineer · *jan/2024 – abr/2024* e Frontend Engineer · *nov/2020 – set/2021*
+- Algoritmos de comissionamento em .NET e PL/SQL no core dos sistemas financeiros e de crédito.
+- Temas modulares em PHP puro, sem page builders, com nota acima de 90 no Google Lighthouse, e uma biblioteca de componentes que acelerou em 40% a entrega de novos projetos.
+
+**2Up Comunicação e Marketing** · Full Stack Web Developer · *ago/2018 – nov/2020*
+- Responsável técnico pelo portal do Hospital CEMA, com foco em acessibilidade (W3C) e segurança.
+- Sites institucionais, sistemas web e e-commerces de ponta a ponta.
 
 ---
 
-## 🧰 Tech Stack & Ferramentas
+## 🧰 Stack
 
 <div align="left">
-  <!-- Languages & Frontend -->
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,php,html,css" height="40" alt="frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,php,dotnet,prisma" height="40" alt="Backend: Node.js, TypeScript, NestJS, PHP, .NET, Prisma" />
   <br />
-  <!-- Backend & Databases -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postman" height="40" alt="backend technologies" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,js,tailwind,sass" height="40" alt="Frontend: React, Next.js, Vue.js, JavaScript, Tailwind, Sass" />
   <br />
-  <!-- Infra & DevOps -->
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,git,github" height="40" alt="infra and devops" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,nginx,linux,cloudflare,githubactions,git" height="40" alt="Dados e infra: MySQL, PostgreSQL, Docker, Nginx, Linux, Cloudflare, GitHub Actions, Git" />
+</div>
+
+| Área | Tecnologias |
+|---|---|
+| **Backend** | Node.js, TypeScript, NestJS, PHP, .NET, Prisma ORM, APIs REST, Webhooks |
+| **Frontend** | React, Next.js, Vue.js, JavaScript (ES6+), Tailwind, Sass |
+| **Mobile** | React Native |
+| **Bancos de dados** | MySQL, PostgreSQL, Oracle (PL/SQL), SQL Server |
+| **Infra e DevOps** | Docker, Docker Compose, Nginx, Linux, Coolify, Cloudflare, CI/CD |
+| **CMS e performance** | Temas e plugins do zero, Payload CMS, Core Web Vitals, SEO técnico |
+
+---
+
+## 🛠️ Open source
+
+| Projeto | O que faz |
+|---|---|
+| [**WordPress Theme Inspector**](https://chromewebstore.google.com/detail/lncfbdbfdkkndcbdmoembpcpadneikon) | Extensão para Chrome que mostra a pasta do tema ativo e o template usado em cada página. |
+| [**toLocaleString Generator**](https://renangf4.github.io/toLocaleString-Generator/) | Ferramenta interativa para testar e gerar configurações do `toLocaleString()` do JavaScript. |
+| [**Personal Hub**](https://github.com/renangf4/personal-hub) | Hub local de utilitários em FastAPI: mídia, PDF, IA, DNS e Whois, AES-GCM, cofre e autenticador TOTP. |
+
+---
+
+## 🎓 Formação
+
+- Pós-graduação em **Full Stack Development** · FIAP
+- **Análise e Desenvolvimento de Sistemas** · Anhanguera
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=renangf4&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&order=1" height="165" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=renangf4&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="165" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📬 Contato
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=renangf4&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&order=1" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=renangf4&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="165" alt="languages graph" />
-</div>
-
----
-
-## 📬 Conecte-se comigo
+Vagas, projetos ou parcerias: me chame por e-mail ou LinkedIn.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://moraissolucoes.com.br/renanmorais/portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0D72FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://moraistech.dev.br/renanmorais/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-morais-1bb762145/)
+[![E-mail](https://img.shields.io/badge/E--mail-renanmorais%40live.com-333?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:renanmorais@live.com)
+[![Morais Tech](https://img.shields.io/badge/Morais%20Tech-0B0E14?style=for-the-badge&logoColor=white)](https://moraistech.dev.br/)
 
 </div>
